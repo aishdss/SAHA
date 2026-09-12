@@ -1,0 +1,6 @@
+{
+  "name": "SAHA",
+  "description": "SAHA — Tell Us. We’ll Take It Forward. You don't need to know whom to contact. SAHA does. Search. Ask. Report. Track. Resolve. Unified urban transport assist for Bengaluru.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
